@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>murkh</title>
-    <link href="https://ajeee31.github.io/murkhraj/feed.xml" rel="self" />
-    <link href="https://ajeee31.github.io/murkhraj" />
-    <updated>2020-01-13T23:11:16+05:30</updated>
+    <link href="https://ajeee31.github.io/feed.xml" rel="self" />
+    <link href="https://ajeee31.github.io" />
+    <updated>2020-01-13T23:24:23+05:30</updated>
     <author>
         <name>ajeetsingh</name>
     </author>
-    <id>https://ajeee31.github.io/murkhraj</id>
+    <id>https://ajeee31.github.io</id>
 
     <entry>
         <title>Take six</title>
         <author>
             <name>ajeetsingh</name>
         </author>
-        <link href="https://ajeee31.github.io/murkhraj/take-six.html"/>
-        <id>https://ajeee31.github.io/murkhraj/take-six.html</id>
+        <link href="https://ajeee31.github.io/take-six.html"/>
+        <id>https://ajeee31.github.io/take-six.html</id>
 
         <updated>2020-01-12T01:58:55+05:30</updated>
             <summary>
@@ -51,8 +51,8 @@
         <author>
             <name>ajeetsingh</name>
         </author>
-        <link href="https://ajeee31.github.io/murkhraj/take-five.html"/>
-        <id>https://ajeee31.github.io/murkhraj/take-five.html</id>
+        <link href="https://ajeee31.github.io/take-five.html"/>
+        <id>https://ajeee31.github.io/take-five.html</id>
 
         <updated>2020-01-12T01:58:46+05:30</updated>
             <summary>
@@ -88,8 +88,8 @@
         <author>
             <name>ajeetsingh</name>
         </author>
-        <link href="https://ajeee31.github.io/murkhraj/take-four.html"/>
-        <id>https://ajeee31.github.io/murkhraj/take-four.html</id>
+        <link href="https://ajeee31.github.io/take-four.html"/>
+        <id>https://ajeee31.github.io/take-four.html</id>
 
         <updated>2020-01-12T01:58:38+05:30</updated>
             <summary>
@@ -125,8 +125,8 @@
         <author>
             <name>ajeetsingh</name>
         </author>
-        <link href="https://ajeee31.github.io/murkhraj/take-three.html"/>
-        <id>https://ajeee31.github.io/murkhraj/take-three.html</id>
+        <link href="https://ajeee31.github.io/take-three.html"/>
+        <id>https://ajeee31.github.io/take-three.html</id>
 
         <updated>2020-01-12T01:58:28+05:30</updated>
             <summary>
@@ -162,8 +162,8 @@
         <author>
             <name>ajeetsingh</name>
         </author>
-        <link href="https://ajeee31.github.io/murkhraj/take-two.html"/>
-        <id>https://ajeee31.github.io/murkhraj/take-two.html</id>
+        <link href="https://ajeee31.github.io/take-two.html"/>
+        <id>https://ajeee31.github.io/take-two.html</id>
 
         <updated>2020-01-12T01:58:20+05:30</updated>
             <summary>
@@ -199,8 +199,8 @@
         <author>
             <name>ajeetsingh</name>
         </author>
-        <link href="https://ajeee31.github.io/murkhraj/take-one.html"/>
-        <id>https://ajeee31.github.io/murkhraj/take-one.html</id>
+        <link href="https://ajeee31.github.io/take-one.html"/>
+        <id>https://ajeee31.github.io/take-one.html</id>
 
         <updated>2020-01-12T01:58:00+05:30</updated>
             <summary>

@@ -3,12 +3,44 @@
     <title>murkh</title>
     <link href="https://murkh.in/feed.xml" rel="self" />
     <link href="https://murkh.in" />
-    <updated>2020-04-13T00:58:35+05:30</updated>
+    <updated>2020-04-13T01:25:59+05:30</updated>
     <author>
         <name>Supager</name>
     </author>
     <id>https://murkh.in</id>
 
+    <entry>
+        <title>कवि जीवन एक कोना </title>
+        <author>
+            <name>Supager</name>
+        </author>
+        <link href="https://murkh.in/kavi-jeevan-ek-konaa.html"/>
+        <id>https://murkh.in/kavi-jeevan-ek-konaa.html</id>
+            <category term="Poetry"/>
+
+        <updated>2020-04-13T01:25:42+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://murkh.in/media/posts/16/in-a-corner.jpg" alt="" />
+                    यह कविता मेरी नहीं है, बल्कि किसी ने मुझे सुनाया था। इसके मूल लेखक का नाम मुझे बोहोत ढूँढ़ने के बाद भी नहीं मिला । अगर आप को स्मरण हो जाये तो अवश्य हमें बताइएगा । यह कविता कवि के ह्रदय के उस कोने की&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://murkh.in/media/posts/16/in-a-corner.jpg" alt="" />
+                <p>यह कविता मेरी नहीं है, बल्कि किसी ने मुझे सुनाया था। इसके मूल लेखक का नाम मुझे बोहोत ढूँढ़ने के बाद भी नहीं मिला । अगर आप को स्मरण हो जाये तो अवश्य हमें बताइएगा । </p>
+<p>यह कविता कवि के ह्रदय के उस कोने की भावनाओ का वर्णन करती हिअ जहा से कविता उत्त्पन्न होती है। वह कोना जो कोमल मासूम और अनदेखा सा प्रतीत होता है।  </p>
+<h2 id="mcetoc_1e5nv75pj0">प्रारम्भ </h2>
+<p>जीवन में एक वक़्त आता है जब इंसान खुद को गानों और कविताओं में ढूंढने लगता है।</p>
+<p>शब्दों की सीमाएँ बढ़ने लगती हैं और भावनाएँ सीमित हो जाती है।</p>
+<p>आत्मबोध किताबी लगने लगता है और आत्मग्लानि हर अगले क्षण महसूस होती है।</p>
+<p>लोग छोटे और दुनिया बड़ी दिखती है।</p>
+<p>खुद को एक कोने में मूंद लेने का मन करता है।</p>
+<p>जहाँ से कोई देख ना सके, कुछ तय ना कर सके।</p>
+<p>कविताएँ,कहानियाँ, किस्से, गाने ये सब वही कोना है। <img class="CToWUd" src="https://mail.google.com/mail/e/2764" alt="❤"  ></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Fighting COVID-19 in a non-blocking way</title>
         <author>
